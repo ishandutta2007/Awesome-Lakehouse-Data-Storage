@@ -4,11 +4,14 @@
 
 # 🌊 Awesome Lakehouse & Data Storage Ecosystem 🚀
 
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+<a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-Lakehouse-Data-Storage/graphs/commit-activity)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Lakehouse-Data-Storage/blob/main/README.md)
 [![Open Table Formats](https://img.shields.io/badge/Formats-Iceberg%20%7C%20Delta%20%7C%20Hudi%20%7C%20Paimon-blueviolet)](https://github.com/apache/iceberg)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 **A curated, production-grade guide to modern Data Lakehouse platforms, Open Table Formats (OTFs), high-performance distributed query engines, and sovereign object storage architectures.**
 
@@ -29,6 +32,8 @@
   - [🚀 Additional Specialized Lakehouse Tools](#-additional-specialized-lakehouse-tools)
 - [🏗️ Frameworks for Building Custom Systems](#-frameworks-for-building-custom-systems)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [⭐ Star History](#star-history)
+- [☕ Support & Sponsorship](#-support--sponsorship)
 - [⚖️ Disclaimer](#-disclaimer)
 
 ---
@@ -157,6 +162,22 @@ We welcome contributions from data engineers, architects, and open-source creato
 4. 🚀 Submit a Pull Request with a clear description of your additions.
 
 ⭐ **Star the repo** if you find it valuable for your data engineering journey!
+
+---
+
+##  Star History
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Lakehouse-Data-Storage&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Lakehouse-Data-Storage&type=date&legend=top-left)
+
+---
+
+## ☕ Support & Sponsorship
+
+If you find this curated Lakehouse ecosystem directory useful for your team, research, or architecture planning, please consider showing your support:
+
+- ⭐ **Star this repository** to help others discover it on GitHub.
+- 🍴 **Fork and contribute** new open table formats, query engines, or benchmarks.
+- 📢 **Share it** with colleagues, data engineering communities, and on social channels.
+- ☕ **Buy me a coffee / Sponsor**: If you'd like to back ongoing maintenance and updates, visit the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007). Thank you for keeping open data architectures thriving!
 
 ---
 
