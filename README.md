@@ -67,7 +67,7 @@ The table below lists the industry's premier commercial and managed cloud lakeho
 
 ## 🐙 Open-Source GitHub Projects
 
-Explore the highest-starred and most actively maintained open-source projects powering the data lakehouse ecosystem. Each entry features a live GitHub star count badge linking directly to its repository stargazers page.
+Explore the highest-starred and most actively maintained open-source projects powering the data lakehouse ecosystem. Each entry features a live GitHub Stars_Count badge linking directly to its repository stargazers page.
 
 ### 🏆 High-Impact Category Leaders
 
